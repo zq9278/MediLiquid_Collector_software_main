@@ -50,7 +50,7 @@
 /* USER CODE BEGIN PV */
 int a;
 uart_data uart_RX_data;                                                              // DMA���н�������
-uart_data received_data;                                                             // ��������ȡ����������?
+uart_data received_data;                                                             // ��������ȡ����������?
 ring_buffer_t uart_rx_ring_buffer = {.head = 0, .tail = 0, .size = UART_QUEUE_SIZE}; // ���廷������
 /* USER CODE END PV */
 
@@ -104,18 +104,45 @@ int main(void)
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
-
+  HAL_Delay(1000);
   while (1)
   {
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
-    HAL_GPIO_WritePin(BEE_GPIO_Port, BEE_Pin, GPIO_PIN_SET);
-    HAL_Delay(200);
-    HAL_GPIO_WritePin(BEE_GPIO_Port, BEE_Pin, GPIO_PIN_RESET);
-    HAL_Delay(5000);
-    HAL_GPIO_WritePin(MAGNET_GPIO_Port, MAGNET_Pin, GPIO_PIN_SET);
-    HAL_Delay(5000);
+    while (HAL_GPIO_ReadPin(PHOTOELECTRIC21_GPIO_Port,PHOTOELECTRIC21_Pin)==GPIO_PIN_SET) {
+      HAL_GPIO_WritePin(BEE_GPIO_Port, BEE_Pin, GPIO_PIN_SET);
+      HAL_Delay(200);
+      HAL_GPIO_WritePin(BEE_GPIO_Port, BEE_Pin, GPIO_PIN_RESET);//蜂鸣器关闭
+      // HAL_Delay(5000);
+      HAL_GPIO_WritePin(MAGNET_GPIO_Port, MAGNET_Pin, GPIO_PIN_SET);//打开电磁铁
+      HAL_Delay(5000);
+      HAL_GPIO_WritePin(AIR_MOTOR_GPIO_Port, AIR_MOTOR_Pin, GPIO_PIN_SET);//打开气泵
+      HAL_Delay(5000);
+      HAL_GPIO_WritePin(SV_AIR_SOURCE_GPIO_Port, SV_AIR_SOURCE_Pin, GPIO_PIN_SET);//打开气泵电磁阀
+      HAL_Delay(1000);
+      HAL_GPIO_WritePin(SV_MAIN_PUSH_GPIO_Port, SV_MAIN_PUSH_Pin, GPIO_PIN_SET);//主推进电磁阀推进
+      HAL_Delay(5000);
+      HAL_GPIO_WritePin(SV_TAP_WATER_GPIO_Port, SV_TAP_WATER_Pin, GPIO_PIN_SET);//打开自来水电磁阀
+      HAL_Delay(60000);
+      HAL_GPIO_WritePin(SV_TAP_WATER_GPIO_Port, SV_TAP_WATER_Pin, GPIO_PIN_RESET);//关闭自来水电磁阀
+      HAL_Delay(3000);
+      HAL_GPIO_WritePin(WATER_MOTOR_GPIO_Port, WATER_MOTOR_Pin, GPIO_PIN_SET);//打开水泵电磁阀
+      HAL_Delay(60000);
+      HAL_GPIO_WritePin(WATER_MOTOR_GPIO_Port, WATER_MOTOR_Pin, GPIO_PIN_RESET);//关闭水泵电磁阀
+      HAL_Delay(3000);
+      HAL_GPIO_WritePin(SV_MAIN_PUSH_GPIO_Port, SV_MAIN_PUSH_Pin, GPIO_PIN_RESET);//主推进电磁阀退出
+      HAL_Delay(200);
+      HAL_GPIO_WritePin(AIR_MOTOR_GPIO_Port, AIR_MOTOR_Pin, GPIO_PIN_RESET);//关闭气泵
+      HAL_Delay(200);
+      HAL_GPIO_WritePin(MAGNET_GPIO_Port, MAGNET_Pin, GPIO_PIN_RESET);//关闭电磁铁
+      HAL_Delay(200);
+      HAL_GPIO_WritePin(BEE_GPIO_Port, BEE_Pin, GPIO_PIN_SET);
+      HAL_Delay(200);
+      HAL_GPIO_WritePin(BEE_GPIO_Port, BEE_Pin, GPIO_PIN_RESET);//蜂鸣器关闭
+    }
+    
+
 
     // HAL_Delay(200);
     // HAL_GPIO_TogglePin(RED_GPIO_Port,RED_Pin);
