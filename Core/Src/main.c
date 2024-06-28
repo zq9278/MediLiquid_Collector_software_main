@@ -112,6 +112,7 @@ int main(void)
     /* USER CODE BEGIN 3 */
     // tmp112_init();
     HAL_Delay(200);
+    HAL_Delay(200);
      HAL_GPIO_TogglePin(RED_GPIO_Port,RED_Pin);
     //HAL_GPIO_WritePin(RED_GPIO_Port, RED_Pin, GPIO_PIN_RESET);
     // HAL_GPIO_WritePin(ORANGE_GPIO_Port, ORANGE_Pin, GPIO_PIN_SET);
