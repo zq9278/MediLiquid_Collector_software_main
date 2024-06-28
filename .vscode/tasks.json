@@ -1,0 +1,67 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            //"command": "${command:eide.project.build}",//eide的编译
+            "command": "D:/SoftWare/Espressif/tools/cmake/3.24.0/bin/cmake.EXE --build D:/project/MediLiquid_Collector/SoftWare/MediLiquid_Collector/build/Debug/", //cmake的编译命令//路径需要换
+            "group": "build",
+            "problemMatcher": []
+        },
+        {
+            "label": "flash",
+            "type": "shell",
+            "command": "openocd",
+            "group": "build",
+            "args": [
+                //"-f",
+                //"interface/stlink.cfg",
+                // "interface/cmsis-dap.cfg",
+                // "-f",
+                // "target/stm32g0x.cfg",
+                "-s",
+                "D:/SoftWare/Espressif/tools/openocd-esp32/v0.12.0-esp32-20230921/openocd-esp32/share/openocd/scripts",
+                "-f",
+                "board/STM32G070CBT6.cfg",
+                "-c",
+                "program build/Debug/MediLiquid_Collector.elf reset exit ",
+                "-c",
+                "shutdown",
+                
+            ],
+            //verify  preverify
+            "problemMatcher": []
+        },
+        // {
+        //     "label": "build and flash",
+        //     "type": "shell",
+        //     "command": "${command:eide.project.buildAndFlash}",
+        //     "group": "build",
+        //     "problemMatcher": []
+        // },
+        // {
+        //     "label": "rebuild",
+        //     "type": "shell",
+        //     "command": "${command:eide.project.rebuild}",
+        //     "group": "build",
+        //     "problemMatcher": []
+        // },
+        // {
+        //     "label": "clean",
+        //     "type": "shell",
+        //     "command": "${command:eide.project.clean}",
+        //     "group": "build",
+        //     "problemMatcher": []
+        // },
+        {
+            "label": "ALL IN ONE",
+            "dependsOn": [//先编译后下载
+                "build",
+                "flash"
+            ],
+            "dependsOrder": "sequence", //依次执行
+            "problemMatcher": []
+        }
+    ]
+}

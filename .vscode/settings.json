@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "tmp112.h": "c",
+        "usart_free_dma.h": "c",
+        "stm32g070xx.h": "c",
+        "main.h": "c"
+    },
+    "cortex-debug.variableUseNaturalFormat": false
+}

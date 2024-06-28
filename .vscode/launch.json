@@ -1,0 +1,28 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+    
+        {
+            "cwd": "${workspaceRoot}",
+            "type": "cortex-debug",
+            "request": "launch",
+            "name": "Debug with OpenOCD",
+            "servertype": "openocd",
+            "executable": "build/Debug/MediLiquid_Collector.elf",
+            "runToEntryPoint": "main",
+            "configFiles": [
+                //"interface/stlink.cfg",
+                "interface/cmsis-dap.cfg",
+                "target/stm32g0x.cfg"
+            ],
+            "toolchainPrefix": "arm-none-eabi",
+            "serverArgs": [],
+            "liveWatch": {
+                "enabled": true,
+                "samplesPerSecond": 1
+            },
+           // "preLaunchTask": "ALL IN ONE"
+            "preLaunchTask": "build"
+        }
+    ]
+}
