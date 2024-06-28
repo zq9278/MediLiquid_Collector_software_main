@@ -110,27 +110,21 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
-    // tmp112_init();
+    HAL_GPIO_WritePin(BEE_GPIO_Port, BEE_Pin, GPIO_PIN_SET);
     HAL_Delay(200);
-    HAL_Delay(200);
-     HAL_GPIO_TogglePin(RED_GPIO_Port,RED_Pin);
-    //HAL_GPIO_WritePin(RED_GPIO_Port, RED_Pin, GPIO_PIN_RESET);
-    // HAL_GPIO_WritePin(ORANGE_GPIO_Port, ORANGE_Pin, GPIO_PIN_SET);
-    // HAL_GPIO_WritePin(MAGNET_GPIO_Port, MAGNET_Pin, GPIO_PIN_SET);
-    // HAL_GPIO_WritePin(WATER_MOTOR_GPIO_Port, WATER_MOTOR_Pin, GPIO_PIN_SET);
-    // HAL_GPIO_WritePin(CHARGE_GPIO_Port, CHARGE_Pin, GPIO_PIN_SET);
-    // HAL_GPIO_WritePin(AIR_MOTOR_GPIO_Port, AIR_MOTOR_Pin, GPIO_PIN_SET);
-    // HAL_GPIO_WritePin(SV_TAP_WATER_GPIO_Port, SV_TAP_WATER_Pin, GPIO_PIN_SET);
-    // HAL_GPIO_WritePin(SV_DETERGENT_GPIO_Port, SV_DETERGENT_Pin, GPIO_PIN_SET);
-    // HAL_GPIO_WritePin(SV_AIR_SOURCE_GPIO_Port, SV_AIR_SOURCE_Pin, GPIO_PIN_SET);
-    // HAL_GPIO_WritePin(SV_MAIN_PUSH_GPIO_Port, SV_MAIN_PUSH_Pin, GPIO_PIN_SET);
     HAL_GPIO_WritePin(BEE_GPIO_Port, BEE_Pin, GPIO_PIN_RESET);
-    if (ring_buffer_get(&uart_rx_ring_buffer, &received_data) == 0)
-    {
-      // �������յ�������
-      processData((PCTRL_MSG)received_data.buffer);
-    }
-    //a++;
+    HAL_Delay(5000);
+    HAL_GPIO_WritePin(MAGNET_GPIO_Port, MAGNET_Pin, GPIO_PIN_SET);
+    HAL_Delay(5000);
+
+    // HAL_Delay(200);
+    // HAL_GPIO_TogglePin(RED_GPIO_Port,RED_Pin);
+    // HAL_GPIO_WritePin(BEE_GPIO_Port, BEE_Pin, GPIO_PIN_RESET);
+    // if (ring_buffer_get(&uart_rx_ring_buffer, &received_data) == 0)
+    // {
+    //   // �������յ�������
+    //   processData((PCTRL_MSG)received_data.buffer);
+    // }
   }
   /* USER CODE END 3 */
 }
