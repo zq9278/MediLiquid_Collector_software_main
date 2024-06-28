@@ -49,9 +49,9 @@
 
 /* USER CODE BEGIN PV */
 int a;
-uart_data uart_RX_data;                                                              // DMA¿ÕÏÐ½ÓÊÕÊý×é
-uart_data received_data;                                                             // »·ÐÎÊý×éÈ¡³ö£¬Êý×éµØÖ·
-ring_buffer_t uart_rx_ring_buffer = {.head = 0, .tail = 0, .size = UART_QUEUE_SIZE}; // ¶¨Òå»·ÐÎÊý×é
+uart_data uart_RX_data;                                                              // DMAï¿½ï¿½ï¿½Ð½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+uart_data received_data;                                                             // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö·
+ring_buffer_t uart_rx_ring_buffer = {.head = 0, .tail = 0, .size = UART_QUEUE_SIZE}; // ï¿½ï¿½ï¿½å»·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
@@ -99,7 +99,7 @@ int main(void)
   MX_I2C2_Init();
   MX_USART1_UART_Init();
   /* USER CODE BEGIN 2 */
-  HAL_UARTEx_ReceiveToIdle_DMA(&huart1, uart_RX_data.buffer, sizeof(uart_RX_data.buffer)); // ¿ªÆôDMA´®¿Ú¿ÕÏÐ½ÓÊÕ£¬ÐèÒªÅäÖÃºÃÊý¾Ý´¦Àíº¯ÊýÓÅÏÈ¼¶£¬»òÕßÖ±½ÓÊ¹ÓÃ»·ÐÎÊý×é
+  HAL_UARTEx_ReceiveToIdle_DMA(&huart1, uart_RX_data.buffer, sizeof(uart_RX_data.buffer)); // ï¿½ï¿½ï¿½ï¿½DMAï¿½ï¿½ï¿½Ú¿ï¿½ï¿½Ð½ï¿½ï¿½Õ£ï¿½ï¿½ï¿½Òªï¿½ï¿½ï¿½Ãºï¿½ï¿½ï¿½ï¿½Ý´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö±ï¿½ï¿½Ê¹ï¿½Ã»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
   /* USER CODE END 2 */
 
   /* Infinite loop */
@@ -126,7 +126,7 @@ int main(void)
     HAL_GPIO_WritePin(BEE_GPIO_Port, BEE_Pin, GPIO_PIN_RESET);
     if (ring_buffer_get(&uart_rx_ring_buffer, &received_data) == 0)
     {
-      // ´¦Àí½ÓÊÕµ½µÄÊý¾Ý
+      // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Õµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
       processData((PCTRL_MSG)received_data.buffer);
     }
     //a++;

@@ -1,4 +1,4 @@
-set(CMAKE_C_COMPILER "D:/SoftWare/STM32Cube/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe")
+set(CMAKE_C_COMPILER "D:/STM32CubeMX/build/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe")
 set(CMAKE_C_COMPILER_ARG1 "")
 set(CMAKE_C_COMPILER_ID "GNU")
 set(CMAKE_C_COMPILER_VERSION "10.3.1")
@@ -21,11 +21,11 @@ set(CMAKE_C_SIMULATE_VERSION "")
 
 
 
-set(CMAKE_AR "D:/SoftWare/STM32Cube/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ar.exe")
-set(CMAKE_C_COMPILER_AR "D:/SoftWare/STM32Cube/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc-ar.exe")
-set(CMAKE_RANLIB "D:/SoftWare/STM32Cube/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ranlib.exe")
-set(CMAKE_C_COMPILER_RANLIB "D:/SoftWare/STM32Cube/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc-ranlib.exe")
-set(CMAKE_LINKER "D:/SoftWare/STM32Cube/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-g++.exe")
+set(CMAKE_AR "D:/STM32CubeMX/build/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ar.exe")
+set(CMAKE_C_COMPILER_AR "D:/STM32CubeMX/build/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc-ar.exe")
+set(CMAKE_RANLIB "D:/STM32CubeMX/build/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ranlib.exe")
+set(CMAKE_C_COMPILER_RANLIB "D:/STM32CubeMX/build/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc-ranlib.exe")
+set(CMAKE_LINKER "D:/STM32CubeMX/build/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-g++.exe")
 set(CMAKE_MT "")
 set(CMAKE_COMPILER_IS_GNUCC 1)
 set(CMAKE_C_COMPILER_LOADED 1)

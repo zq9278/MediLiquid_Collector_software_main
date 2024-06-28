@@ -1,4 +1,4 @@
-# Install script for directory: D:/project/MediLiquid_Collector/SoftWare/MediLiquid_Collector/cmake/stm32cubemx
+# Install script for directory: D:/project/MediLiquid_Collector/Software/MediLiquid_Collector_software_main/cmake/stm32cubemx
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,6 +34,6 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "D:/SoftWare/STM32Cube/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-objdump.exe")
+  set(CMAKE_OBJDUMP "D:/STM32CubeMX/build/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-objdump.exe")
 endif()
 

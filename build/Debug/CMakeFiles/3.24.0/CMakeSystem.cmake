@@ -3,7 +3,7 @@ set(CMAKE_HOST_SYSTEM_NAME "Windows")
 set(CMAKE_HOST_SYSTEM_VERSION "10.0.22631")
 set(CMAKE_HOST_SYSTEM_PROCESSOR "AMD64")
 
-include("D:/project/MediLiquid_Collector/SoftWare/MediLiquid_Collector/cmake/gcc-arm-none-eabi.cmake")
+include("D:/project/MediLiquid_Collector/Software/MediLiquid_Collector_software_main/cmake/gcc-arm-none-eabi.cmake")
 
 set(CMAKE_SYSTEM "Generic")
 set(CMAKE_SYSTEM_NAME "Generic")

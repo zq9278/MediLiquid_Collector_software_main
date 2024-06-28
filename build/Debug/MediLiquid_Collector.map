@@ -1,62 +1,62 @@
 Archive member included to satisfy reference by file (symbol)
 
-d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
-                              d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (exit)
-d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
-                              d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
-d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
-                              d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (__libc_init_array)
-d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
-                              d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (memset)
-d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+                              d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (exit)
+d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+                              d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+                              d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (__libc_init_array)
+d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+                              d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (memset)
+d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
                               CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj (__aeabi_uidiv)
-d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
                               CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj (__aeabi_idiv)
-d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
-                              d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
-d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-errno.o)
+d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                              d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-errno.o)
                               CMakeFiles/MediLiquid_Collector.dir/Core/Src/sysmem.c.obj (__errno)
-d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
+d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
                               CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/usart_free_dma.c.obj (memcpy)
 
 Discarded input sections
 
- .text          0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
- .data          0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
- .bss           0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
- .data          0x00000000        0x4 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
- .rodata        0x00000000       0x24 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
- .text          0x00000000       0x80 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
- .data          0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
- .bss           0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
- .ARM.extab     0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
- .ARM.exidx     0x00000000       0x10 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .text          0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .data          0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .bss           0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .data          0x00000000        0x4 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .rodata        0x00000000       0x24 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text          0x00000000       0x80 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .data          0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .bss           0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
  .ARM.attributes
-                0x00000000       0x1b d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
- .text          0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
- .data          0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
- .bss           0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
- .text.exit     0x00000000       0x2c d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
- .debug_frame   0x00000000       0x28 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+                0x00000000       0x1b d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .text          0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x2c d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
  .ARM.attributes
-                0x00000000       0x2c d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
- .text          0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
- .data          0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
- .bss           0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+                0x00000000       0x2c d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
  .data._impure_ptr
-                0x00000000        0x4 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+                0x00000000        0x4 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
  .data.impure_data
-                0x00000000       0x60 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+                0x00000000       0x60 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
  .rodata._global_impure_ptr
-                0x00000000        0x4 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+                0x00000000        0x4 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
  .ARM.attributes
-                0x00000000       0x2c d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
- .text          0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
- .data          0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
- .bss           0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
- .text          0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
- .data          0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
- .bss           0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+                0x00000000       0x2c d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
  .group         0x00000000        0xc CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/tmp112.c.obj
  .text          0x00000000        0x0 CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/tmp112.c.obj
  .data          0x00000000        0x0 CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/tmp112.c.obj
@@ -70,8 +70,8 @@ Discarded input sections
  .debug_ranges  0x00000000       0x10 CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/tmp112.c.obj
  .debug_macro   0x00000000       0x1b CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/tmp112.c.obj
  .debug_macro   0x00000000      0xa4e CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/tmp112.c.obj
- .debug_line    0x00000000       0xdf CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/tmp112.c.obj
- .debug_str     0x00000000     0x2c4c CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/tmp112.c.obj
+ .debug_line    0x00000000       0xfb CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/tmp112.c.obj
+ .debug_str     0x00000000     0x2c70 CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/tmp112.c.obj
  .comment       0x00000000       0x4a CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/tmp112.c.obj
  .debug_frame   0x00000000       0x2c CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/tmp112.c.obj
  .ARM.attributes
@@ -1261,8 +1261,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x693 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
  .debug_macro   0x00000000       0xa6 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
  .debug_macro   0x00000000      0x43d CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
- .debug_line    0x00000000      0xa87 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
- .debug_str     0x00000000    0x89967 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
+ .debug_line    0x00000000      0xad7 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
+ .debug_str     0x00000000    0x8998b CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
  .comment       0x00000000       0x4a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
  .debug_frame   0x00000000      0x270 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
  .ARM.attributes
@@ -1277,8 +1277,8 @@ Discarded input sections
                 0x00000000       0x18 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_adc.c.obj
  .debug_macro   0x00000000       0x11 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_adc.c.obj
  .debug_macro   0x00000000      0xa4e CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_adc.c.obj
- .debug_line    0x00000000       0x92 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_adc.c.obj
- .debug_str     0x00000000     0x2c52 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_adc.c.obj
+ .debug_line    0x00000000       0xa0 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_adc.c.obj
+ .debug_str     0x00000000     0x2c76 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_adc.c.obj
  .comment       0x00000000       0x4a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_adc.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_adc.c.obj
@@ -1516,8 +1516,8 @@ Discarded input sections
                 0x00000000       0x18 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
  .debug_macro   0x00000000       0x11 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
  .debug_macro   0x00000000      0xa4e CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
- .debug_line    0x00000000       0x92 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
- .debug_str     0x00000000     0x2c52 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
+ .debug_line    0x00000000       0xa0 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
+ .debug_str     0x00000000     0x2c76 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
  .comment       0x00000000       0x4a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
@@ -1652,8 +1652,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x693 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
  .debug_macro   0x00000000       0xa6 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
  .debug_macro   0x00000000      0x43d CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
- .debug_line    0x00000000      0xa6b CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
- .debug_str     0x00000000    0x893da CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .debug_line    0x00000000      0xabb CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .debug_str     0x00000000    0x893fe CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
  .comment       0x00000000       0x4a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
  .debug_frame   0x00000000      0x1d4 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
  .ARM.attributes
@@ -1789,8 +1789,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x693 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
  .debug_macro   0x00000000       0xa6 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
  .debug_macro   0x00000000      0x43d CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
- .debug_line    0x00000000      0xa5a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
- .debug_str     0x00000000    0x89402 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .debug_line    0x00000000      0xaaa CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .debug_str     0x00000000    0x89426 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
  .comment       0x00000000       0x4a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
  .debug_frame   0x00000000      0x1d4 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
  .ARM.attributes
@@ -2128,8 +2128,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x693 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
  .debug_macro   0x00000000       0xa6 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
  .debug_macro   0x00000000      0x43d CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
- .debug_line    0x00000000      0x8f1 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
- .debug_str     0x00000000    0x89559 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .debug_line    0x00000000      0x941 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .debug_str     0x00000000    0x8957d CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
  .comment       0x00000000       0x4a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
  .debug_frame   0x00000000       0xb0 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
  .ARM.attributes
@@ -2144,8 +2144,8 @@ Discarded input sections
                 0x00000000       0x18 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_dma.c.obj
  .debug_macro   0x00000000       0x11 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_dma.c.obj
  .debug_macro   0x00000000      0xa4e CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_dma.c.obj
- .debug_line    0x00000000       0x92 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_dma.c.obj
- .debug_str     0x00000000     0x2c52 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_dma.c.obj
+ .debug_line    0x00000000       0xa0 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_dma.c.obj
+ .debug_str     0x00000000     0x2c76 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_dma.c.obj
  .comment       0x00000000       0x4a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_dma.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_dma.c.obj
@@ -2276,8 +2276,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x693 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
  .debug_macro   0x00000000       0xa6 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
  .debug_macro   0x00000000      0x43d CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
- .debug_line    0x00000000      0x87e CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
- .debug_str     0x00000000    0x8938a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .debug_line    0x00000000      0x8ce CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .debug_str     0x00000000    0x893ae CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
  .comment       0x00000000       0x4a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
  .debug_frame   0x00000000      0x170 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
  .ARM.attributes
@@ -2816,8 +2816,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x693 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
  .debug_macro   0x00000000       0xa6 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
  .debug_macro   0x00000000      0x43d CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
- .debug_line    0x00000000      0xad0 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
- .debug_str     0x00000000    0x89387 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .debug_line    0x00000000      0xb20 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .debug_str     0x00000000    0x893ab CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
  .comment       0x00000000       0x4a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
  .debug_frame   0x00000000      0x130 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
  .ARM.attributes
@@ -3286,8 +3286,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x693 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
  .debug_macro   0x00000000       0xa6 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
  .debug_macro   0x00000000      0x43d CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
- .debug_line    0x00000000      0x719 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
- .debug_str     0x00000000    0x890c1 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .debug_line    0x00000000      0x769 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .debug_str     0x00000000    0x890e5 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
  .comment       0x00000000       0x4a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
@@ -3393,8 +3393,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x693 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
  .debug_macro   0x00000000       0xa6 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
  .debug_macro   0x00000000      0x43d CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
- .debug_line    0x00000000      0x71c CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
- .debug_str     0x00000000    0x890c4 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .debug_line    0x00000000      0x76c CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .debug_str     0x00000000    0x890e8 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
  .comment       0x00000000       0x4a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
@@ -3865,8 +3865,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x103 CMakeFiles/MediLiquid_Collector.dir/Core/Src/sysmem.c.obj
  .debug_macro   0x00000000       0x6a CMakeFiles/MediLiquid_Collector.dir/Core/Src/sysmem.c.obj
  .debug_macro   0x00000000      0x1df CMakeFiles/MediLiquid_Collector.dir/Core/Src/sysmem.c.obj
- .debug_line    0x00000000      0x2dd CMakeFiles/MediLiquid_Collector.dir/Core/Src/sysmem.c.obj
- .debug_str     0x00000000     0x571b CMakeFiles/MediLiquid_Collector.dir/Core/Src/sysmem.c.obj
+ .debug_line    0x00000000      0x2e7 CMakeFiles/MediLiquid_Collector.dir/Core/Src/sysmem.c.obj
+ .debug_str     0x00000000     0x573f CMakeFiles/MediLiquid_Collector.dir/Core/Src/sysmem.c.obj
  .comment       0x00000000       0x4a CMakeFiles/MediLiquid_Collector.dir/Core/Src/sysmem.c.obj
  .debug_frame   0x00000000       0x30 CMakeFiles/MediLiquid_Collector.dir/Core/Src/sysmem.c.obj
  .ARM.attributes
@@ -3991,8 +3991,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x189 CMakeFiles/MediLiquid_Collector.dir/Core/Src/syscalls.c.obj
  .debug_macro   0x00000000       0x16 CMakeFiles/MediLiquid_Collector.dir/Core/Src/syscalls.c.obj
  .debug_macro   0x00000000       0xce CMakeFiles/MediLiquid_Collector.dir/Core/Src/syscalls.c.obj
- .debug_line    0x00000000      0x5e7 CMakeFiles/MediLiquid_Collector.dir/Core/Src/syscalls.c.obj
- .debug_str     0x00000000     0x846a CMakeFiles/MediLiquid_Collector.dir/Core/Src/syscalls.c.obj
+ .debug_line    0x00000000      0x5f1 CMakeFiles/MediLiquid_Collector.dir/Core/Src/syscalls.c.obj
+ .debug_str     0x00000000     0x848e CMakeFiles/MediLiquid_Collector.dir/Core/Src/syscalls.c.obj
  .comment       0x00000000       0x4a CMakeFiles/MediLiquid_Collector.dir/Core/Src/syscalls.c.obj
  .debug_frame   0x00000000      0x244 CMakeFiles/MediLiquid_Collector.dir/Core/Src/syscalls.c.obj
  .ARM.attributes
@@ -4000,32 +4000,32 @@ Discarded input sections
  .text          0x00000000       0x14 CMakeFiles/MediLiquid_Collector.dir/startup_stm32g070xx.s.obj
  .data          0x00000000        0x0 CMakeFiles/MediLiquid_Collector.dir/startup_stm32g070xx.s.obj
  .bss           0x00000000        0x0 CMakeFiles/MediLiquid_Collector.dir/startup_stm32g070xx.s.obj
- .data          0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
- .bss           0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
- .data          0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
- .bss           0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
- .data          0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
- .bss           0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
- .text          0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-errno.o)
- .data          0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-errno.o)
- .bss           0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-errno.o)
- .text.__errno  0x00000000        0xc d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-errno.o)
- .debug_frame   0x00000000       0x20 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-errno.o)
+ .data          0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-errno.o)
+ .data          0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-errno.o)
  .ARM.attributes
-                0x00000000       0x2c d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-errno.o)
- .text          0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
- .data          0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
- .bss           0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
- .text          0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
- .data          0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
- .bss           0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
- .rodata        0x00000000       0x24 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
- .eh_frame      0x00000000        0x4 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+                0x00000000       0x2c d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-errno.o)
+ .text          0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .data          0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .bss           0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .rodata        0x00000000       0x24 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
  .ARM.attributes
-                0x00000000       0x2c d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
- .text          0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
- .data          0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
- .bss           0x00000000        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+                0x00000000       0x2c d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .text          0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ .data          0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ .bss           0x00000000        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
 
 Memory Configuration
 
@@ -4036,12 +4036,12 @@ FLASH            0x08000000         0x00020000         xr
 
 Linker script and memory map
 
-LOAD d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
-LOAD d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
-LOAD d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+LOAD d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+LOAD d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+LOAD d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
 START GROUP
-LOAD d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a
-LOAD d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a
+LOAD d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a
+LOAD d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a
 END GROUP
 LOAD CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/tmp112.c.obj
 LOAD CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/usart_free_dma.c.obj
@@ -4081,16 +4081,16 @@ LOAD CMakeFiles/MediLiquid_Collector.dir/Core/Src/sysmem.c.obj
 LOAD CMakeFiles/MediLiquid_Collector.dir/Core/Src/syscalls.c.obj
 LOAD CMakeFiles/MediLiquid_Collector.dir/startup_stm32g070xx.s.obj
 START GROUP
-LOAD d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a
-LOAD d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a
-LOAD d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a
+LOAD d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a
+LOAD d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a
+LOAD d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a
 END GROUP
 START GROUP
-LOAD d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a
-LOAD d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a
+LOAD d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a
+LOAD d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a
 END GROUP
-LOAD d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
-LOAD d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+LOAD d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+LOAD d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
                 0x20009000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
                 0x00000200                _Min_Heap_Size = 0x200
                 0x00000400                _Min_Stack_Size = 0x400
@@ -4102,26 +4102,26 @@ LOAD d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-non
                 0x08000000                g_pfnVectors
                 0x080000b8                . = ALIGN (0x4)
 
-.text           0x080000b8     0x4df4
+.text           0x080000b8     0x4dfc
                 0x080000b8                . = ALIGN (0x4)
  *(.text)
- .text          0x080000b8       0x48 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
- .text          0x08000100      0x114 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .text          0x080000b8       0x48 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text          0x08000100      0x114 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
                 0x08000100                __aeabi_uidiv
                 0x08000100                __udivsi3
                 0x0800020c                __aeabi_uidivmod
- .text          0x08000214      0x1d4 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .text          0x08000214      0x1d4 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
                 0x08000214                __divsi3
                 0x08000214                __aeabi_idiv
                 0x080003e0                __aeabi_idivmod
- .text          0x080003e8        0x4 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .text          0x080003e8        0x4 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
                 0x080003e8                __aeabi_idiv0
                 0x080003e8                __aeabi_ldiv0
  *(.text*)
  .text.__libc_init_array
-                0x080003ec       0x48 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+                0x080003ec       0x48 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
                 0x080003ec                __libc_init_array
- .text.memset   0x08000434       0x10 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+ .text.memset   0x08000434       0x10 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
                 0x08000434                memset
  .text.ring_buffer_put
                 0x08000444       0x84 CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/usart_free_dma.c.obj
@@ -4132,391 +4132,391 @@ LOAD d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-non
  .text.processData
                 0x08000534      0x23c CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/usart_free_dma.c.obj
                 0x08000534                processData
- .text.main     0x08000770       0x78 CMakeFiles/MediLiquid_Collector.dir/Core/Src/main.c.obj
+ .text.main     0x08000770       0x80 CMakeFiles/MediLiquid_Collector.dir/Core/Src/main.c.obj
                 0x08000770                main
  .text.SystemClock_Config
-                0x080007e8       0xb4 CMakeFiles/MediLiquid_Collector.dir/Core/Src/main.c.obj
-                0x080007e8                SystemClock_Config
+                0x080007f0       0xb4 CMakeFiles/MediLiquid_Collector.dir/Core/Src/main.c.obj
+                0x080007f0                SystemClock_Config
  .text.Error_Handler
-                0x0800089c        0xa CMakeFiles/MediLiquid_Collector.dir/Core/Src/main.c.obj
-                0x0800089c                Error_Handler
- *fill*         0x080008a6        0x2 
+                0x080008a4        0xa CMakeFiles/MediLiquid_Collector.dir/Core/Src/main.c.obj
+                0x080008a4                Error_Handler
+ *fill*         0x080008ae        0x2 
  .text.MX_GPIO_Init
-                0x080008a8      0x1fc CMakeFiles/MediLiquid_Collector.dir/Core/Src/gpio.c.obj
-                0x080008a8                MX_GPIO_Init
+                0x080008b0      0x1fc CMakeFiles/MediLiquid_Collector.dir/Core/Src/gpio.c.obj
+                0x080008b0                MX_GPIO_Init
  .text.MX_ADC1_Init
-                0x08000aa4       0xd4 CMakeFiles/MediLiquid_Collector.dir/Core/Src/adc.c.obj
-                0x08000aa4                MX_ADC1_Init
+                0x08000aac       0xd4 CMakeFiles/MediLiquid_Collector.dir/Core/Src/adc.c.obj
+                0x08000aac                MX_ADC1_Init
  .text.HAL_ADC_MspInit
-                0x08000b78       0x88 CMakeFiles/MediLiquid_Collector.dir/Core/Src/adc.c.obj
-                0x08000b78                HAL_ADC_MspInit
+                0x08000b80       0x88 CMakeFiles/MediLiquid_Collector.dir/Core/Src/adc.c.obj
+                0x08000b80                HAL_ADC_MspInit
  .text.MX_DMA_Init
-                0x08000c00       0x4c CMakeFiles/MediLiquid_Collector.dir/Core/Src/dma.c.obj
-                0x08000c00                MX_DMA_Init
+                0x08000c08       0x4c CMakeFiles/MediLiquid_Collector.dir/Core/Src/dma.c.obj
+                0x08000c08                MX_DMA_Init
  .text.MX_I2C2_Init
-                0x08000c4c       0x80 CMakeFiles/MediLiquid_Collector.dir/Core/Src/i2c.c.obj
-                0x08000c4c                MX_I2C2_Init
+                0x08000c54       0x80 CMakeFiles/MediLiquid_Collector.dir/Core/Src/i2c.c.obj
+                0x08000c54                MX_I2C2_Init
  .text.HAL_I2C_MspInit
-                0x08000ccc       0x98 CMakeFiles/MediLiquid_Collector.dir/Core/Src/i2c.c.obj
-                0x08000ccc                HAL_I2C_MspInit
+                0x08000cd4       0x98 CMakeFiles/MediLiquid_Collector.dir/Core/Src/i2c.c.obj
+                0x08000cd4                HAL_I2C_MspInit
  .text.MX_USART1_UART_Init
-                0x08000d64       0x9c CMakeFiles/MediLiquid_Collector.dir/Core/Src/usart.c.obj
-                0x08000d64                MX_USART1_UART_Init
+                0x08000d6c       0x9c CMakeFiles/MediLiquid_Collector.dir/Core/Src/usart.c.obj
+                0x08000d6c                MX_USART1_UART_Init
  .text.HAL_UART_MspInit
-                0x08000e00      0x18c CMakeFiles/MediLiquid_Collector.dir/Core/Src/usart.c.obj
-                0x08000e00                HAL_UART_MspInit
+                0x08000e08      0x18c CMakeFiles/MediLiquid_Collector.dir/Core/Src/usart.c.obj
+                0x08000e08                HAL_UART_MspInit
  .text.HAL_UARTEx_RxEventCallback
-                0x08000f8c       0x48 CMakeFiles/MediLiquid_Collector.dir/Core/Src/usart.c.obj
-                0x08000f8c                HAL_UARTEx_RxEventCallback
+                0x08000f94       0x48 CMakeFiles/MediLiquid_Collector.dir/Core/Src/usart.c.obj
+                0x08000f94                HAL_UARTEx_RxEventCallback
  .text.HAL_UART_ErrorCallback
-                0x08000fd4       0x54 CMakeFiles/MediLiquid_Collector.dir/Core/Src/usart.c.obj
-                0x08000fd4                HAL_UART_ErrorCallback
+                0x08000fdc       0x54 CMakeFiles/MediLiquid_Collector.dir/Core/Src/usart.c.obj
+                0x08000fdc                HAL_UART_ErrorCallback
  .text.NMI_Handler
-                0x08001028        0x6 CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_it.c.obj
-                0x08001028                NMI_Handler
+                0x08001030        0x6 CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_it.c.obj
+                0x08001030                NMI_Handler
  .text.HardFault_Handler
-                0x0800102e        0x6 CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_it.c.obj
-                0x0800102e                HardFault_Handler
+                0x08001036        0x6 CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_it.c.obj
+                0x08001036                HardFault_Handler
  .text.SVC_Handler
-                0x08001034        0xa CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_it.c.obj
-                0x08001034                SVC_Handler
+                0x0800103c        0xa CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_it.c.obj
+                0x0800103c                SVC_Handler
  .text.PendSV_Handler
-                0x0800103e        0xa CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_it.c.obj
-                0x0800103e                PendSV_Handler
+                0x08001046        0xa CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_it.c.obj
+                0x08001046                PendSV_Handler
  .text.SysTick_Handler
-                0x08001048        0xe CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_it.c.obj
-                0x08001048                SysTick_Handler
- *fill*         0x08001056        0x2 
+                0x08001050        0xe CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_it.c.obj
+                0x08001050                SysTick_Handler
+ *fill*         0x0800105e        0x2 
  .text.DMA1_Channel1_IRQHandler
-                0x08001058       0x18 CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_it.c.obj
-                0x08001058                DMA1_Channel1_IRQHandler
+                0x08001060       0x18 CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_it.c.obj
+                0x08001060                DMA1_Channel1_IRQHandler
  .text.DMA1_Channel2_3_IRQHandler
-                0x08001070       0x18 CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_it.c.obj
-                0x08001070                DMA1_Channel2_3_IRQHandler
+                0x08001078       0x18 CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_it.c.obj
+                0x08001078                DMA1_Channel2_3_IRQHandler
  .text.USART1_IRQHandler
-                0x08001088       0x18 CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_it.c.obj
-                0x08001088                USART1_IRQHandler
+                0x08001090       0x18 CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_it.c.obj
+                0x08001090                USART1_IRQHandler
  .text.HAL_MspInit
-                0x080010a0       0x50 CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_hal_msp.c.obj
-                0x080010a0                HAL_MspInit
+                0x080010a8       0x50 CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+                0x080010a8                HAL_MspInit
  .text.LL_ADC_SetCommonPathInternalCh
-                0x080010f0       0x28 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+                0x080010f8       0x28 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
  .text.LL_ADC_GetCommonPathInternalCh
-                0x08001118       0x1a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+                0x08001120       0x1a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
  .text.LL_ADC_SetSamplingTimeCommonChannels
-                0x08001132       0x3a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+                0x0800113a       0x3a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
  .text.LL_ADC_GetSamplingTimeCommonChannels
-                0x0800116c       0x2e CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+                0x08001174       0x2e CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
  .text.LL_ADC_REG_SetSequencerRanks
-                0x0800119a       0x40 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+                0x080011a2       0x40 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
  .text.LL_ADC_REG_SetSequencerChAdd
-                0x080011da       0x22 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+                0x080011e2       0x22 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
  .text.LL_ADC_REG_SetSequencerChRem
-                0x080011fc       0x24 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+                0x08001204       0x24 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
  .text.LL_ADC_SetChannelSamplingTime
-                0x08001220       0x38 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+                0x08001228       0x38 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
  .text.LL_ADC_EnableInternalRegulator
-                0x08001258       0x28 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+                0x08001260       0x28 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
  .text.LL_ADC_IsInternalRegulatorEnabled
-                0x08001280       0x28 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+                0x08001288       0x28 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
  .text.LL_ADC_IsEnabled
-                0x080012a8       0x22 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+                0x080012b0       0x22 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
  .text.LL_ADC_REG_IsConversionOngoing
-                0x080012ca       0x22 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+                0x080012d2       0x22 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
  .text.HAL_ADC_Init
-                0x080012ec      0x350 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
-                0x080012ec                HAL_ADC_Init
+                0x080012f4      0x350 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+                0x080012f4                HAL_ADC_Init
  .text.HAL_ADC_ConfigChannel
-                0x0800163c      0x3b0 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
-                0x0800163c                HAL_ADC_ConfigChannel
+                0x08001644      0x3b0 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+                0x08001644                HAL_ADC_ConfigChannel
  .text.LL_RCC_GetAPB1Prescaler
-                0x080019ec       0x18 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                0x080019f4       0x18 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
  .text.HAL_RCC_OscConfig
-                0x08001a04      0x620 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
-                0x08001a04                HAL_RCC_OscConfig
+                0x08001a0c      0x620 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                0x08001a0c                HAL_RCC_OscConfig
  .text.HAL_RCC_ClockConfig
-                0x08002024      0x210 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
-                0x08002024                HAL_RCC_ClockConfig
+                0x0800202c      0x210 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                0x0800202c                HAL_RCC_ClockConfig
  .text.HAL_RCC_GetSysClockFreq
-                0x08002234      0x100 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
-                0x08002234                HAL_RCC_GetSysClockFreq
+                0x0800223c      0x100 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                0x0800223c                HAL_RCC_GetSysClockFreq
  .text.HAL_RCC_GetHCLKFreq
-                0x08002334       0x14 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
-                0x08002334                HAL_RCC_GetHCLKFreq
+                0x0800233c       0x14 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                0x0800233c                HAL_RCC_GetHCLKFreq
  .text.HAL_RCC_GetPCLK1Freq
-                0x08002348       0x2c CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
-                0x08002348                HAL_RCC_GetPCLK1Freq
+                0x08002350       0x2c CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                0x08002350                HAL_RCC_GetPCLK1Freq
  .text.HAL_RCCEx_PeriphCLKConfig
-                0x08002374      0x268 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
-                0x08002374                HAL_RCCEx_PeriphCLKConfig
+                0x0800237c      0x268 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+                0x0800237c                HAL_RCCEx_PeriphCLKConfig
  .text.HAL_GPIO_Init
-                0x080025dc      0x2c8 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
-                0x080025dc                HAL_GPIO_Init
+                0x080025e4      0x2c8 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+                0x080025e4                HAL_GPIO_Init
  .text.HAL_GPIO_WritePin
-                0x080028a4       0x3a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
-                0x080028a4                HAL_GPIO_WritePin
+                0x080028ac       0x3a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+                0x080028ac                HAL_GPIO_WritePin
  .text.HAL_GPIO_TogglePin
-                0x080028de       0x36 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
-                0x080028de                HAL_GPIO_TogglePin
+                0x080028e6       0x36 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+                0x080028e6                HAL_GPIO_TogglePin
  .text.HAL_DMA_Init
-                0x08002914      0x114 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
-                0x08002914                HAL_DMA_Init
+                0x0800291c      0x114 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x0800291c                HAL_DMA_Init
  .text.HAL_DMA_Start_IT
-                0x08002a28      0x10c CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
-                0x08002a28                HAL_DMA_Start_IT
+                0x08002a30      0x10c CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x08002a30                HAL_DMA_Start_IT
  .text.HAL_DMA_Abort
-                0x08002b34       0xc4 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
-                0x08002b34                HAL_DMA_Abort
+                0x08002b3c       0xc4 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x08002b3c                HAL_DMA_Abort
  .text.HAL_DMA_Abort_IT
-                0x08002bf8       0xd4 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
-                0x08002bf8                HAL_DMA_Abort_IT
+                0x08002c00       0xd4 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x08002c00                HAL_DMA_Abort_IT
  .text.HAL_DMA_IRQHandler
-                0x08002ccc      0x164 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
-                0x08002ccc                HAL_DMA_IRQHandler
+                0x08002cd4      0x164 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x08002cd4                HAL_DMA_IRQHandler
  .text.HAL_DMA_GetError
-                0x08002e30       0x14 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
-                0x08002e30                HAL_DMA_GetError
+                0x08002e38       0x14 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x08002e38                HAL_DMA_GetError
  .text.DMA_SetConfig
-                0x08002e44       0x80 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x08002e4c       0x80 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
  .text.DMA_CalcDMAMUXChannelBaseAndMask
-                0x08002ec4       0x58 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x08002ecc       0x58 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
  .text.DMA_CalcDMAMUXRequestGenBaseAndMask
-                0x08002f1c       0x48 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x08002f24       0x48 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
  .text.HAL_PWREx_ControlVoltageScaling
-                0x08002f64       0x80 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
-                0x08002f64                HAL_PWREx_ControlVoltageScaling
+                0x08002f6c       0x80 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+                0x08002f6c                HAL_PWREx_ControlVoltageScaling
  .text.__NVIC_EnableIRQ
-                0x08002fe4       0x34 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+                0x08002fec       0x34 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
  .text.__NVIC_SetPriority
-                0x08003018       0xdc CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+                0x08003020       0xdc CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
  .text.SysTick_Config
-                0x080030f4       0x48 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+                0x080030fc       0x48 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
  .text.HAL_NVIC_SetPriority
-                0x0800313c       0x2a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
-                0x0800313c                HAL_NVIC_SetPriority
+                0x08003144       0x2a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+                0x08003144                HAL_NVIC_SetPriority
  .text.HAL_NVIC_EnableIRQ
-                0x08003166       0x20 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
-                0x08003166                HAL_NVIC_EnableIRQ
+                0x0800316e       0x20 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+                0x0800316e                HAL_NVIC_EnableIRQ
  .text.HAL_SYSTICK_Config
-                0x08003186       0x1a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
-                0x08003186                HAL_SYSTICK_Config
+                0x0800318e       0x1a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+                0x0800318e                HAL_SYSTICK_Config
  .text.HAL_Init
-                0x080031a0       0x40 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
-                0x080031a0                HAL_Init
+                0x080031a8       0x40 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x080031a8                HAL_Init
  .text.HAL_InitTick
-                0x080031e0       0x94 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
-                0x080031e0                HAL_InitTick
+                0x080031e8       0x94 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x080031e8                HAL_InitTick
  .text.HAL_IncTick
-                0x08003274       0x24 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
-                0x08003274                HAL_IncTick
+                0x0800327c       0x24 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x0800327c                HAL_IncTick
  .text.HAL_GetTick
-                0x08003298       0x14 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
-                0x08003298                HAL_GetTick
+                0x080032a0       0x14 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x080032a0                HAL_GetTick
  .text.HAL_Delay
-                0x080032ac       0x48 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
-                0x080032ac                HAL_Delay
+                0x080032b4       0x48 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x080032b4                HAL_Delay
  .text.HAL_SYSCFG_StrobeDBattpinsConfig
-                0x080032f4       0x2c CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
-                0x080032f4                HAL_SYSCFG_StrobeDBattpinsConfig
+                0x080032fc       0x2c CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x080032fc                HAL_SYSCFG_StrobeDBattpinsConfig
  .text.HAL_I2C_Init
-                0x08003320      0x14c CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c.c.obj
-                0x08003320                HAL_I2C_Init
+                0x08003328      0x14c CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c.c.obj
+                0x08003328                HAL_I2C_Init
  .text.HAL_I2CEx_ConfigAnalogFilter
-                0x0800346c       0x98 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c_ex.c.obj
-                0x0800346c                HAL_I2CEx_ConfigAnalogFilter
+                0x08003474       0x98 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c_ex.c.obj
+                0x08003474                HAL_I2CEx_ConfigAnalogFilter
  .text.HAL_I2CEx_ConfigDigitalFilter
-                0x08003504       0x98 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c_ex.c.obj
-                0x08003504                HAL_I2CEx_ConfigDigitalFilter
+                0x0800350c       0x98 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c_ex.c.obj
+                0x0800350c                HAL_I2CEx_ConfigDigitalFilter
  .text.HAL_UART_Init
-                0x0800359c       0xac CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
-                0x0800359c                HAL_UART_Init
+                0x080035a4       0xac CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x080035a4                HAL_UART_Init
  .text.HAL_UART_Abort
-                0x08003648      0x218 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
-                0x08003648                HAL_UART_Abort
+                0x08003650      0x218 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08003650                HAL_UART_Abort
  .text.HAL_UART_IRQHandler
-                0x08003860      0x64c CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
-                0x08003860                HAL_UART_IRQHandler
+                0x08003868      0x64c CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08003868                HAL_UART_IRQHandler
  .text.HAL_UART_TxCpltCallback
-                0x08003eac       0x10 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
-                0x08003eac                HAL_UART_TxCpltCallback
+                0x08003eb4       0x10 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08003eb4                HAL_UART_TxCpltCallback
  .text.HAL_UART_RxCpltCallback
-                0x08003ebc       0x10 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
-                0x08003ebc                HAL_UART_RxCpltCallback
+                0x08003ec4       0x10 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08003ec4                HAL_UART_RxCpltCallback
  .text.HAL_UART_RxHalfCpltCallback
-                0x08003ecc       0x10 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
-                0x08003ecc                HAL_UART_RxHalfCpltCallback
+                0x08003ed4       0x10 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08003ed4                HAL_UART_RxHalfCpltCallback
  .text.HAL_UART_GetError
-                0x08003edc       0x16 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
-                0x08003edc                HAL_UART_GetError
- *fill*         0x08003ef2        0x2 
+                0x08003ee4       0x16 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08003ee4                HAL_UART_GetError
+ *fill*         0x08003efa        0x2 
  .text.UART_SetConfig
-                0x08003ef4      0x348 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
-                0x08003ef4                UART_SetConfig
+                0x08003efc      0x348 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08003efc                UART_SetConfig
  .text.UART_AdvFeatureConfig
-                0x0800423c      0x168 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
-                0x0800423c                UART_AdvFeatureConfig
+                0x08004244      0x168 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08004244                UART_AdvFeatureConfig
  .text.UART_CheckIdleState
-                0x080043a4      0x154 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
-                0x080043a4                UART_CheckIdleState
+                0x080043ac      0x154 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x080043ac                UART_CheckIdleState
  .text.UART_WaitOnFlagUntilTimeout
-                0x080044f8       0xde CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
-                0x080044f8                UART_WaitOnFlagUntilTimeout
- *fill*         0x080045d6        0x2 
+                0x08004500       0xde CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08004500                UART_WaitOnFlagUntilTimeout
+ *fill*         0x080045de        0x2 
  .text.UART_Start_Receive_DMA
-                0x080045d8      0x14c CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
-                0x080045d8                UART_Start_Receive_DMA
+                0x080045e0      0x14c CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x080045e0                UART_Start_Receive_DMA
  .text.UART_EndTxTransfer
-                0x08004724       0x80 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x0800472c       0x80 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
  .text.UART_EndRxTransfer
-                0x080047a4       0xcc CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x080047ac       0xcc CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
  .text.UART_DMAReceiveCplt
-                0x08004870      0x130 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08004878      0x130 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
  .text.UART_DMARxHalfCplt
-                0x080049a0       0x42 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x080049a8       0x42 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
  .text.UART_DMAError
-                0x080049e2       0x86 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x080049ea       0x86 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
  .text.UART_DMAAbortOnError
-                0x08004a68       0x2e CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08004a70       0x2e CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
  .text.UART_EndTransmit_IT
-                0x08004a96       0x58 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08004a9e       0x58 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
  .text.HAL_UARTEx_WakeupCallback
-                0x08004aee       0x10 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
-                0x08004aee                HAL_UARTEx_WakeupCallback
+                0x08004af6       0x10 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+                0x08004af6                HAL_UARTEx_WakeupCallback
  .text.HAL_UARTEx_RxFifoFullCallback
-                0x08004afe       0x10 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
-                0x08004afe                HAL_UARTEx_RxFifoFullCallback
+                0x08004b06       0x10 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+                0x08004b06                HAL_UARTEx_RxFifoFullCallback
  .text.HAL_UARTEx_TxFifoEmptyCallback
-                0x08004b0e       0x10 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
-                0x08004b0e                HAL_UARTEx_TxFifoEmptyCallback
- *fill*         0x08004b1e        0x2 
+                0x08004b16       0x10 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+                0x08004b16                HAL_UARTEx_TxFifoEmptyCallback
+ *fill*         0x08004b26        0x2 
  .text.HAL_UARTEx_DisableFifoMode
-                0x08004b20       0x74 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
-                0x08004b20                HAL_UARTEx_DisableFifoMode
+                0x08004b28       0x74 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+                0x08004b28                HAL_UARTEx_DisableFifoMode
  .text.HAL_UARTEx_SetTxFifoThreshold
-                0x08004b94       0x7e CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
-                0x08004b94                HAL_UARTEx_SetTxFifoThreshold
- *fill*         0x08004c12        0x2 
+                0x08004b9c       0x7e CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+                0x08004b9c                HAL_UARTEx_SetTxFifoThreshold
+ *fill*         0x08004c1a        0x2 
  .text.HAL_UARTEx_SetRxFifoThreshold
-                0x08004c14       0x84 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
-                0x08004c14                HAL_UARTEx_SetRxFifoThreshold
+                0x08004c1c       0x84 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+                0x08004c1c                HAL_UARTEx_SetRxFifoThreshold
  .text.HAL_UARTEx_ReceiveToIdle_DMA
-                0x08004c98       0xd0 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
-                0x08004c98                HAL_UARTEx_ReceiveToIdle_DMA
+                0x08004ca0       0xd0 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+                0x08004ca0                HAL_UARTEx_ReceiveToIdle_DMA
  .text.UARTEx_SetNbDataToProcess
-                0x08004d68       0xbc CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+                0x08004d70       0xbc CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
  .text.SystemInit
-                0x08004e24        0xa CMakeFiles/MediLiquid_Collector.dir/Core/Src/system_stm32g0xx.c.obj
-                0x08004e24                SystemInit
- *fill*         0x08004e2e        0x2 
+                0x08004e2c        0xa CMakeFiles/MediLiquid_Collector.dir/Core/Src/system_stm32g0xx.c.obj
+                0x08004e2c                SystemInit
+ *fill*         0x08004e36        0x2 
  .text.Reset_Handler
-                0x08004e30       0x50 CMakeFiles/MediLiquid_Collector.dir/startup_stm32g070xx.s.obj
-                0x08004e30                Reset_Handler
+                0x08004e38       0x50 CMakeFiles/MediLiquid_Collector.dir/startup_stm32g070xx.s.obj
+                0x08004e38                Reset_Handler
  .text.Default_Handler
-                0x08004e80        0x2 CMakeFiles/MediLiquid_Collector.dir/startup_stm32g070xx.s.obj
-                0x08004e80                TIM1_CC_IRQHandler
-                0x08004e80                TIM6_IRQHandler
-                0x08004e80                I2C1_IRQHandler
-                0x08004e80                RTC_TAMP_IRQHandler
-                0x08004e80                SPI1_IRQHandler
-                0x08004e80                USART3_4_IRQHandler
-                0x08004e80                EXTI2_3_IRQHandler
-                0x08004e80                ADC1_IRQHandler
-                0x08004e80                I2C2_IRQHandler
-                0x08004e80                TIM17_IRQHandler
-                0x08004e80                TIM16_IRQHandler
-                0x08004e80                TIM3_IRQHandler
-                0x08004e80                EXTI4_15_IRQHandler
-                0x08004e80                RCC_IRQHandler
-                0x08004e80                Default_Handler
-                0x08004e80                TIM14_IRQHandler
-                0x08004e80                TIM7_IRQHandler
-                0x08004e80                TIM15_IRQHandler
-                0x08004e80                EXTI0_1_IRQHandler
-                0x08004e80                SPI2_IRQHandler
-                0x08004e80                WWDG_IRQHandler
-                0x08004e80                DMA1_Ch4_7_DMAMUX1_OVR_IRQHandler
-                0x08004e80                USART2_IRQHandler
-                0x08004e80                FLASH_IRQHandler
-                0x08004e80                TIM1_BRK_UP_TRG_COM_IRQHandler
- .text.memcpy   0x08004e82       0x12 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
-                0x08004e82                memcpy
+                0x08004e88        0x2 CMakeFiles/MediLiquid_Collector.dir/startup_stm32g070xx.s.obj
+                0x08004e88                TIM1_CC_IRQHandler
+                0x08004e88                TIM6_IRQHandler
+                0x08004e88                I2C1_IRQHandler
+                0x08004e88                RTC_TAMP_IRQHandler
+                0x08004e88                SPI1_IRQHandler
+                0x08004e88                USART3_4_IRQHandler
+                0x08004e88                EXTI2_3_IRQHandler
+                0x08004e88                ADC1_IRQHandler
+                0x08004e88                I2C2_IRQHandler
+                0x08004e88                TIM17_IRQHandler
+                0x08004e88                TIM16_IRQHandler
+                0x08004e88                TIM3_IRQHandler
+                0x08004e88                EXTI4_15_IRQHandler
+                0x08004e88                RCC_IRQHandler
+                0x08004e88                Default_Handler
+                0x08004e88                TIM14_IRQHandler
+                0x08004e88                TIM7_IRQHandler
+                0x08004e88                TIM15_IRQHandler
+                0x08004e88                EXTI0_1_IRQHandler
+                0x08004e88                SPI2_IRQHandler
+                0x08004e88                WWDG_IRQHandler
+                0x08004e88                DMA1_Ch4_7_DMAMUX1_OVR_IRQHandler
+                0x08004e88                USART2_IRQHandler
+                0x08004e88                FLASH_IRQHandler
+                0x08004e88                TIM1_BRK_UP_TRG_COM_IRQHandler
+ .text.memcpy   0x08004e8a       0x12 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
+                0x08004e8a                memcpy
  *(.glue_7)
- .glue_7        0x08004e94        0x0 linker stubs
+ .glue_7        0x08004e9c        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x08004e94        0x0 linker stubs
+ .glue_7t       0x08004e9c        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x08004e94        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .eh_frame      0x08004e9c        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
  *(.init)
- .init          0x08004e94        0x4 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
-                0x08004e94                _init
- .init          0x08004e98        0x8 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ .init          0x08004e9c        0x4 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+                0x08004e9c                _init
+ .init          0x08004ea0        0x8 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
  *(.fini)
- .fini          0x08004ea0        0x4 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
-                0x08004ea0                _fini
- .fini          0x08004ea4        0x8 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
-                0x08004eac                . = ALIGN (0x4)
-                0x08004eac                _etext = .
+ .fini          0x08004ea8        0x4 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+                0x08004ea8                _fini
+ .fini          0x08004eac        0x8 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+                0x08004eb4                . = ALIGN (0x4)
+                0x08004eb4                _etext = .
 
-.vfp11_veneer   0x08004eac        0x0
- .vfp11_veneer  0x08004eac        0x0 linker stubs
+.vfp11_veneer   0x08004eb4        0x0
+ .vfp11_veneer  0x08004eb4        0x0 linker stubs
 
-.v4_bx          0x08004eac        0x0
- .v4_bx         0x08004eac        0x0 linker stubs
+.v4_bx          0x08004eb4        0x0
+ .v4_bx         0x08004eb4        0x0 linker stubs
 
-.iplt           0x08004eac        0x0
- .iplt          0x08004eac        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+.iplt           0x08004eb4        0x0
+ .iplt          0x08004eb4        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
 
-.rodata         0x08004eac       0x88
-                0x08004eac                . = ALIGN (0x4)
+.rodata         0x08004eb4       0x88
+                0x08004eb4                . = ALIGN (0x4)
  *(.rodata)
  *(.rodata*)
  .rodata.UARTPrescTable
-                0x08004eac       0x18 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
-                0x08004eac                UARTPrescTable
+                0x08004eb4       0x18 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08004eb4                UARTPrescTable
  .rodata.numerator.1
-                0x08004ec4        0x8 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
- .rodata.denominator.0
                 0x08004ecc        0x8 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .rodata.denominator.0
+                0x08004ed4        0x8 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
  .rodata.AHBPrescTable
-                0x08004ed4       0x40 CMakeFiles/MediLiquid_Collector.dir/Core/Src/system_stm32g0xx.c.obj
-                0x08004ed4                AHBPrescTable
+                0x08004edc       0x40 CMakeFiles/MediLiquid_Collector.dir/Core/Src/system_stm32g0xx.c.obj
+                0x08004edc                AHBPrescTable
  .rodata.APBPrescTable
-                0x08004f14       0x20 CMakeFiles/MediLiquid_Collector.dir/Core/Src/system_stm32g0xx.c.obj
-                0x08004f14                APBPrescTable
-                0x08004f34                . = ALIGN (0x4)
+                0x08004f1c       0x20 CMakeFiles/MediLiquid_Collector.dir/Core/Src/system_stm32g0xx.c.obj
+                0x08004f1c                APBPrescTable
+                0x08004f3c                . = ALIGN (0x4)
 
-.rel.dyn        0x08004f34        0x0
- .rel.iplt      0x08004f34        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+.rel.dyn        0x08004f3c        0x0
+ .rel.iplt      0x08004f3c        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
 
-.ARM            0x08004f34        0x0
-                0x08004f34                __exidx_start = .
+.ARM            0x08004f3c        0x0
+                0x08004f3c                __exidx_start = .
  *(.ARM.exidx*)
-                0x08004f34                __exidx_end = .
+                0x08004f3c                __exidx_end = .
 
-.preinit_array  0x08004f34        0x0
-                0x08004f34                PROVIDE (__preinit_array_start = .)
+.preinit_array  0x08004f3c        0x0
+                0x08004f3c                PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x08004f34                PROVIDE (__preinit_array_end = .)
+                0x08004f3c                PROVIDE (__preinit_array_end = .)
 
-.init_array     0x08004f34        0x4
-                0x08004f34                PROVIDE (__init_array_start = .)
+.init_array     0x08004f3c        0x4
+                0x08004f3c                PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
- .init_array    0x08004f34        0x4 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
-                0x08004f38                PROVIDE (__init_array_end = .)
+ .init_array    0x08004f3c        0x4 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x08004f40                PROVIDE (__init_array_end = .)
 
-.fini_array     0x08004f38        0x4
+.fini_array     0x08004f40        0x4
                 [!provide]                PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x08004f38        0x4 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .fini_array    0x08004f40        0x4 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
                 [!provide]                PROVIDE (__fini_array_end = .)
-                0x08004f3c                _sidata = LOADADDR (.data)
+                0x08004f44                _sidata = LOADADDR (.data)
 
-.data           0x20000000      0x410 load address 0x08004f3c
+.data           0x20000000      0x410 load address 0x08004f44
                 0x20000000                . = ALIGN (0x4)
                 0x20000000                _sdata = .
  *(.data)
@@ -4538,15 +4538,15 @@ LOAD d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-non
                 0x20000410                . = ALIGN (0x4)
                 0x20000410                _edata = .
 
-.igot.plt       0x20000410        0x0 load address 0x0800534c
- .igot.plt      0x20000410        0x0 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+.igot.plt       0x20000410        0x0 load address 0x08005354
+ .igot.plt      0x20000410        0x0 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
                 0x20000410                . = ALIGN (0x4)
 
-.bss            0x20000410      0x2f4 load address 0x0800534c
+.bss            0x20000410      0x2f4 load address 0x08005354
                 0x20000410                _sbss = .
                 0x20000410                __bss_start__ = _sbss
  *(.bss)
- .bss           0x20000410       0x1c d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .bss           0x20000410       0x1c d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
  *(.bss*)
  .bss.uart_RX_data
                 0x2000042c       0x66 CMakeFiles/MediLiquid_Collector.dir/Core/Src/main.c.obj
@@ -4576,7 +4576,7 @@ LOAD d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-non
                 0x20000704                __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x20000704      0x604 load address 0x0800534c
+                0x20000704      0x604 load address 0x08005354
                 0x20000708                . = ALIGN (0x8)
  *fill*         0x20000704        0x4 
                 [!provide]                PROVIDE (end = .)
@@ -4596,13 +4596,13 @@ LOAD d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-non
                 0x00000000       0x28
  *(.ARM.attributes)
  .ARM.attributes
-                0x00000000       0x1e d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+                0x00000000       0x1e d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
  .ARM.attributes
-                0x0000001e       0x2c d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x0000001e       0x2c d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
  .ARM.attributes
-                0x0000004a       0x2c d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+                0x0000004a       0x2c d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
  .ARM.attributes
-                0x00000076       0x2c d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+                0x00000076       0x2c d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
  .ARM.attributes
                 0x000000a2       0x2c CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/usart_free_dma.c.obj
  .ARM.attributes
@@ -4650,24 +4650,24 @@ LOAD d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-non
  .ARM.attributes
                 0x0000046a       0x22 CMakeFiles/MediLiquid_Collector.dir/startup_stm32g070xx.s.obj
  .ARM.attributes
-                0x0000048c       0x1e d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                0x0000048c       0x1e d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
  .ARM.attributes
-                0x000004aa       0x1e d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+                0x000004aa       0x1e d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
  .ARM.attributes
-                0x000004c8       0x1e d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x000004c8       0x1e d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
  .ARM.attributes
-                0x000004e6       0x2c d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
+                0x000004e6       0x2c d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
  .ARM.attributes
-                0x00000512       0x1e d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+                0x00000512       0x1e d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
 OUTPUT(MediLiquid_Collector.elf elf32-littlearm)
 LOAD linker stubs
-LOAD d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
-LOAD d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a
-LOAD d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a
+LOAD d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
+LOAD d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a
+LOAD d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a
 
 .debug_frame    0x00000000     0x3124
- .debug_frame   0x00000000       0x2c d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
- .debug_frame   0x0000002c       0x20 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x2c d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x0000002c       0x20 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
  .debug_frame   0x0000004c       0x70 CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/usart_free_dma.c.obj
  .debug_frame   0x000000bc       0x68 CMakeFiles/MediLiquid_Collector.dir/Core/Src/main.c.obj
  .debug_frame   0x00000124       0x30 CMakeFiles/MediLiquid_Collector.dir/Core/Src/gpio.c.obj
@@ -4690,9 +4690,9 @@ LOAD d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-non
  .debug_frame   0x00002544      0x8d4 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
  .debug_frame   0x00002e18      0x258 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
  .debug_frame   0x00003070       0x4c CMakeFiles/MediLiquid_Collector.dir/Core/Src/system_stm32g0xx.c.obj
- .debug_frame   0x000030bc       0x20 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
- .debug_frame   0x000030dc       0x20 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
- .debug_frame   0x000030fc       0x28 d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x000030bc       0x20 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_frame   0x000030dc       0x20 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .debug_frame   0x000030fc       0x28 d:/stm32cubemx/build/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
 
 .debug_info     0x00000000    0x11d38
  .debug_info    0x00000000      0x393 CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/usart_free_dma.c.obj
@@ -4888,78 +4888,78 @@ LOAD d:/software/stm32cube/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-non
  .debug_macro   0x00016185      0x218 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
  .debug_macro   0x0001639d      0x20c CMakeFiles/MediLiquid_Collector.dir/Core/Src/system_stm32g0xx.c.obj
 
-.debug_line     0x00000000    0x13e2f
- .debug_line    0x00000000      0x84a CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/usart_free_dma.c.obj
- .debug_line    0x0000084a      0x84b CMakeFiles/MediLiquid_Collector.dir/Core/Src/main.c.obj
- .debug_line    0x00001095      0x78b CMakeFiles/MediLiquid_Collector.dir/Core/Src/gpio.c.obj
- .debug_line    0x00001820      0x7b4 CMakeFiles/MediLiquid_Collector.dir/Core/Src/adc.c.obj
- .debug_line    0x00001fd4      0x721 CMakeFiles/MediLiquid_Collector.dir/Core/Src/dma.c.obj
- .debug_line    0x000026f5      0x7a0 CMakeFiles/MediLiquid_Collector.dir/Core/Src/i2c.c.obj
- .debug_line    0x00002e95      0x8be CMakeFiles/MediLiquid_Collector.dir/Core/Src/usart.c.obj
- .debug_line    0x00003753      0x7d0 CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_it.c.obj
- .debug_line    0x00003f23      0x724 CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_hal_msp.c.obj
- .debug_line    0x00004647     0x18d5 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
- .debug_line    0x00005f1c      0xefa CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
- .debug_line    0x00006e16      0xb05 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
- .debug_line    0x0000791b      0xb39 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
- .debug_line    0x00008454      0xd6d CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
- .debug_line    0x000091c1      0x969 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
- .debug_line    0x00009b2a      0xb7b CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
- .debug_line    0x0000a6a5      0xa39 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
- .debug_line    0x0000b0de     0x395b CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c.c.obj
- .debug_line    0x0000ea39      0x941 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c_ex.c.obj
- .debug_line    0x0000f37a     0x3497 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
- .debug_line    0x00012811      0xdd3 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
- .debug_line    0x000135e4      0x796 CMakeFiles/MediLiquid_Collector.dir/Core/Src/system_stm32g0xx.c.obj
- .debug_line    0x00013d7a       0xb5 CMakeFiles/MediLiquid_Collector.dir/startup_stm32g070xx.s.obj
+.debug_line     0x00000000    0x14548
+ .debug_line    0x00000000      0x8a8 CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/usart_free_dma.c.obj
+ .debug_line    0x000008a8      0x8aa CMakeFiles/MediLiquid_Collector.dir/Core/Src/main.c.obj
+ .debug_line    0x00001152      0x7db CMakeFiles/MediLiquid_Collector.dir/Core/Src/gpio.c.obj
+ .debug_line    0x0000192d      0x804 CMakeFiles/MediLiquid_Collector.dir/Core/Src/adc.c.obj
+ .debug_line    0x00002131      0x771 CMakeFiles/MediLiquid_Collector.dir/Core/Src/dma.c.obj
+ .debug_line    0x000028a2      0x7f0 CMakeFiles/MediLiquid_Collector.dir/Core/Src/i2c.c.obj
+ .debug_line    0x00003092      0x91c CMakeFiles/MediLiquid_Collector.dir/Core/Src/usart.c.obj
+ .debug_line    0x000039ae      0x820 CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_it.c.obj
+ .debug_line    0x000041ce      0x774 CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+ .debug_line    0x00004942     0x1925 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .debug_line    0x00006267      0xf4a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .debug_line    0x000071b1      0xb55 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .debug_line    0x00007d06      0xb89 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .debug_line    0x0000888f      0xdbd CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .debug_line    0x0000964c      0x9b9 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .debug_line    0x0000a005      0xbcb CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .debug_line    0x0000abd0      0xa89 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .debug_line    0x0000b659     0x39ab CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c.c.obj
+ .debug_line    0x0000f004      0x991 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c_ex.c.obj
+ .debug_line    0x0000f995     0x34e7 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .debug_line    0x00012e7c      0xe23 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .debug_line    0x00013c9f      0x7e6 CMakeFiles/MediLiquid_Collector.dir/Core/Src/system_stm32g0xx.c.obj
+ .debug_line    0x00014485       0xc3 CMakeFiles/MediLiquid_Collector.dir/startup_stm32g070xx.s.obj
 
-.debug_str      0x00000000    0x8dcd6
- .debug_str     0x00000000    0x88f59 CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/usart_free_dma.c.obj
-                              0x895f4 (size before relaxing)
- .debug_str     0x00088f59      0x6e0 CMakeFiles/MediLiquid_Collector.dir/Core/Src/main.c.obj
-                              0x89ca9 (size before relaxing)
- .debug_str     0x00089639      0x150 CMakeFiles/MediLiquid_Collector.dir/Core/Src/gpio.c.obj
-                              0x895f4 (size before relaxing)
- .debug_str     0x00089789      0x2b5 CMakeFiles/MediLiquid_Collector.dir/Core/Src/adc.c.obj
-                              0x89b69 (size before relaxing)
- .debug_str     0x00089a3e      0x1f5 CMakeFiles/MediLiquid_Collector.dir/Core/Src/dma.c.obj
-                              0x896fc (size before relaxing)
- .debug_str     0x00089c33      0x2b5 CMakeFiles/MediLiquid_Collector.dir/Core/Src/i2c.c.obj
-                              0x89b7c (size before relaxing)
- .debug_str     0x00089ee8      0x198 CMakeFiles/MediLiquid_Collector.dir/Core/Src/usart.c.obj
-                              0x89ec3 (size before relaxing)
- .debug_str     0x0008a080       0xf7 CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_it.c.obj
-                              0x89a81 (size before relaxing)
- .debug_str     0x0008a177       0x67 CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_hal_msp.c.obj
-                              0x89557 (size before relaxing)
- .debug_str     0x0008a1de      0x8ae CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
-                              0x89eeb (size before relaxing)
- .debug_str     0x0008aa8c      0x5ce CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
-                              0x898e5 (size before relaxing)
- .debug_str     0x0008b05a      0x1a7 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
-                              0x894bf (size before relaxing)
- .debug_str     0x0008b201      0x1b6 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
-                              0x8931d (size before relaxing)
- .debug_str     0x0008b3b7      0x2ed CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
-                              0x89676 (size before relaxing)
- .debug_str     0x0008b6a4      0x224 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
-                              0x8943c (size before relaxing)
- .debug_str     0x0008b8c8      0x343 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
-                              0x89667 (size before relaxing)
- .debug_str     0x0008bc0b      0x42a CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
-                              0x89858 (size before relaxing)
- .debug_str     0x0008c035      0xdf9 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c.c.obj
-                              0x8a56c (size before relaxing)
- .debug_str     0x0008ce2e       0xf3 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c_ex.c.obj
-                              0x89827 (size before relaxing)
- .debug_str     0x0008cf21      0x995 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
-                              0x8a0e2 (size before relaxing)
- .debug_str     0x0008d8b6      0x343 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
-                              0x899c8 (size before relaxing)
- .debug_str     0x0008dbf9       0x7b CMakeFiles/MediLiquid_Collector.dir/Core/Src/system_stm32g0xx.c.obj
-                              0x891e8 (size before relaxing)
- .debug_str     0x0008dc74       0x62 CMakeFiles/MediLiquid_Collector.dir/startup_stm32g070xx.s.obj
-                                 0xac (size before relaxing)
+.debug_str      0x00000000    0x8de2e
+ .debug_str     0x00000000    0x88f7d CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/usart_free_dma.c.obj
+                              0x89618 (size before relaxing)
+ .debug_str     0x00088f7d      0x6ee CMakeFiles/MediLiquid_Collector.dir/Core/Src/main.c.obj
+                              0x89ccd (size before relaxing)
+ .debug_str     0x0008966b      0x15e CMakeFiles/MediLiquid_Collector.dir/Core/Src/gpio.c.obj
+                              0x89618 (size before relaxing)
+ .debug_str     0x000897c9      0x2c3 CMakeFiles/MediLiquid_Collector.dir/Core/Src/adc.c.obj
+                              0x89b8d (size before relaxing)
+ .debug_str     0x00089a8c      0x203 CMakeFiles/MediLiquid_Collector.dir/Core/Src/dma.c.obj
+                              0x89720 (size before relaxing)
+ .debug_str     0x00089c8f      0x2c3 CMakeFiles/MediLiquid_Collector.dir/Core/Src/i2c.c.obj
+                              0x89ba0 (size before relaxing)
+ .debug_str     0x00089f52      0x1a6 CMakeFiles/MediLiquid_Collector.dir/Core/Src/usart.c.obj
+                              0x89ee7 (size before relaxing)
+ .debug_str     0x0008a0f8      0x105 CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_it.c.obj
+                              0x89aa5 (size before relaxing)
+ .debug_str     0x0008a1fd       0x75 CMakeFiles/MediLiquid_Collector.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+                              0x8957b (size before relaxing)
+ .debug_str     0x0008a272      0x8bc CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+                              0x89f0f (size before relaxing)
+ .debug_str     0x0008ab2e      0x5dc CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                              0x89909 (size before relaxing)
+ .debug_str     0x0008b10a      0x1b5 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+                              0x894e3 (size before relaxing)
+ .debug_str     0x0008b2bf      0x1c4 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+                              0x89341 (size before relaxing)
+ .debug_str     0x0008b483      0x2fb CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                              0x8969a (size before relaxing)
+ .debug_str     0x0008b77e      0x232 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+                              0x89460 (size before relaxing)
+ .debug_str     0x0008b9b0      0x351 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+                              0x8968b (size before relaxing)
+ .debug_str     0x0008bd01      0x438 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                              0x8987c (size before relaxing)
+ .debug_str     0x0008c139      0xe07 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c.c.obj
+                              0x8a590 (size before relaxing)
+ .debug_str     0x0008cf40      0x101 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c_ex.c.obj
+                              0x8984b (size before relaxing)
+ .debug_str     0x0008d041      0x9a3 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                              0x8a106 (size before relaxing)
+ .debug_str     0x0008d9e4      0x351 CMakeFiles/MediLiquid_Collector.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+                              0x899ec (size before relaxing)
+ .debug_str     0x0008dd35       0x89 CMakeFiles/MediLiquid_Collector.dir/Core/Src/system_stm32g0xx.c.obj
+                              0x8920c (size before relaxing)
+ .debug_str     0x0008ddbe       0x70 CMakeFiles/MediLiquid_Collector.dir/startup_stm32g070xx.s.obj
+                                 0xc8 (size before relaxing)
 
 .comment        0x00000000       0x49
  .comment       0x00000000       0x49 CMakeFiles/MediLiquid_Collector.dir/HardWare/Src/usart_free_dma.c.obj

@@ -1,4 +1,4 @@
-# Install script for directory: D:/project/MediLiquid_Collector/SoftWare/MediLiquid_Collector
+# Install script for directory: D:/project/MediLiquid_Collector/Software/MediLiquid_Collector_software_main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,12 +34,12 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "D:/SoftWare/STM32Cube/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-objdump.exe")
+  set(CMAKE_OBJDUMP "D:/STM32CubeMX/build/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-objdump.exe")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/project/MediLiquid_Collector/SoftWare/MediLiquid_Collector/build/Debug/cmake/stm32cubemx/cmake_install.cmake")
+  include("D:/project/MediLiquid_Collector/Software/MediLiquid_Collector_software_main/build/Debug/cmake/stm32cubemx/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/project/MediLiquid_Collector/SoftWare/MediLiquid_Collector/build/Debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/project/MediLiquid_Collector/Software/MediLiquid_Collector_software_main/build/Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

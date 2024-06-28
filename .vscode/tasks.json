@@ -5,7 +5,7 @@
             "label": "build",
             "type": "shell",
             //"command": "${command:eide.project.build}",//eide的编译
-            "command": "D:/SoftWare/Espressif/tools/cmake/3.24.0/bin/cmake.EXE --build D:/project/MediLiquid_Collector/SoftWare/MediLiquid_Collector/build/Debug/", //cmake的编译命令//路径需要换
+            "command": "D:/STM32CubeMX/build/cmake/3.24.0/bin/cmake.EXE --build D:/project/MediLiquid_Collector/Software/MediLiquid_Collector_software_main/build/Debug", //cmake的编译命令//路径需要换
             "group": "build",
             "problemMatcher": []
         },
@@ -21,7 +21,7 @@
                 // "-f",
                 // "target/stm32g0x.cfg",
                 "-s",
-                "D:/SoftWare/Espressif/tools/openocd-esp32/v0.12.0-esp32-20230921/openocd-esp32/share/openocd/scripts",
+                "D:/STM32CubeMX/build/openocd-esp32/v0.12.0-esp32-20230921/openocd-esp32/share/openocd/scripts",
                 "-f",
                 "board/STM32G070CBT6.cfg",
                 "-c",
