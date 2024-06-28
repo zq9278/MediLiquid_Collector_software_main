@@ -50,7 +50,7 @@
 /* USER CODE BEGIN PV */
 int a;
 uart_data uart_RX_data;                                                              // DMA���н�������
-uart_data received_data;                                                             // ��������ȡ���������ַ
+uart_data received_data;                                                             // ��������ȡ����������?
 ring_buffer_t uart_rx_ring_buffer = {.head = 0, .tail = 0, .size = UART_QUEUE_SIZE}; // ���廷������
 /* USER CODE END PV */
 
