@@ -93,6 +93,8 @@ void Error_Handler(void);
 #define RED_GPIO_Port GPIOB
 #define ORANGE_Pin GPIO_PIN_4
 #define ORANGE_GPIO_Port GPIOB
+#define IR333C_Pin GPIO_PIN_5
+#define IR333C_GPIO_Port GPIOB
 
 /* USER CODE BEGIN Private defines */
 
